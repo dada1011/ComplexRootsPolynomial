@@ -1,5 +1,5 @@
 # ComplexRootsPolynomial
-C++ code that uses Newton Raphson to find the complex roots of higher order polynomials
+C++ code that uses Newton Raphson to find the complex roots of quintic(fifth order) polynomials. Method can be extended to higher orders.
 
 
 How to run: 
