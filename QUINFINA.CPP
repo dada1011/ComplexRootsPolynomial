@@ -1,3 +1,7 @@
+//Copyright 2022 Sourodip Ghoshdastidar.
+//Written in C++ in May 2012 when I was in my second year of Engineering Bachelor's.
+
+
 #include<iostream>
 #include<math.h>
 
