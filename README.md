@@ -22,7 +22,7 @@ Rest is self explanatory and a screenshot is posted above, depicting the steps w
 Comparison with octave roots function(on right panel) is made, see for yourself to get to know how close our answers(on left panel) are to the roots function.
 \
 \
-This program uses the Netwon-Raphson algorithm to remove the real roots from the intended equation to get another equation that contains only complex roots.
+This program uses the Netwon-Raphson algorithm to factor out the real roots from the intended equation to get another equation that contains only complex roots.
 \
 \
 That equation is further decomposed to get the complex roots of the polynomial.
